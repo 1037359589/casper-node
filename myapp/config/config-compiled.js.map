@@ -1,0 +1,1 @@
+{"version":3,"sources":["config.js"],"names":[],"mappings":";;;AAGA,OAAO,OAAP,GAAe;AACX,WAAQ,4BAAR;CADJ","file":"config-compiled.js","sourcesContent":["/**\n * Created by pzl on 16/9/20.\n */\nmodule.exports={\n    mongodb:\"mongodb://localhost/casper\"\n};"]}
