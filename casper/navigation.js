@@ -1,6 +1,7 @@
 /**
  * Created by pzl on 16/9/20.
  */
+
 var casper = require('casper').create();
 casper.start('http://casperjs.org/');
 

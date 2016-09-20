@@ -1,6 +1,7 @@
 /**
  * Created by pzl on 16/9/20.
  */
+
 var casper = require('casper').create();
 casper.start('http://casperjs.org/');
 
@@ -14,4 +15,4 @@ casper.thenOpen('http://phantomjs.org', function () {
 
 casper.run();
 
-//# sourceMappingURL=simple-compiled.js.map
+//# sourceMappingURL=navigation-compiled.js.map
