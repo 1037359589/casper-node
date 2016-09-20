@@ -28,7 +28,6 @@ casper.run(function () {
         console.log(links[i]);
         linkArr.push(link);
     }
-    //console.log(fs);
     fs.write('./myapp/file/file.json', JSON.stringify(linkArr), function (err) {
         if (err) {
             console.log("222s");

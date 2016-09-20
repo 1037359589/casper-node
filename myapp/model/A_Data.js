@@ -9,10 +9,6 @@ var Aa=new mongoose.Schema({
         type:Number,
         index:true
     },
-    index:{
-        type:Number,
-        default:1
-    },
     link:{
         type:String
     }
